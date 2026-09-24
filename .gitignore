@@ -1,0 +1,31 @@
+# macOS and Windows metadata
+.DS_Store
+**/.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Editor and local-only files
+.idea/
+.vscode/
+*.swp
+*.tmp
+~$*
+
+# Scratch artifacts belong outside version control. Existing tracked files under
+# tmp/ remain available; this rule prevents new renders and extracts from adding
+# noise to future commits.
+/tmp/
+
+# Intermediate extraction and render artifacts are not shared.
+**/workfiles/
+**/Workfiles/

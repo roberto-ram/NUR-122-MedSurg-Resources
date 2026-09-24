@@ -1,0 +1,570 @@
+NUR 122 MED-SURG - DAYS 1-6 FLASHCARD QUESTIONS AND ANSWERS
+
+Total: 175 cards (25 cards per section)
+Format: Question followed by Answer. This is a study text file only; no Quizlet set has been created.
+
+Primary course sources:
+- NUR122 Fall26 MS ReadingListObjectives.pdf
+- Electrolytes_CMcCain.pdf
+- Electrolyte Concept Maps-2 (1).pdf
+- ABGs_CMcCain_Spring2026.pdf
+- Diabetes1&2 CMcCain-1.pdf
+- Pharmacy Diabetes Lecture with Audio (3).pdf
+- Anemia CMcCain.pdf
+- Preoperative 9_5_18 lecture(1).pdf
+- Postoperative PP.pdf
+
+Note: Lab ranges can vary by laboratory. The values below follow the lecture slides when stated. Chloride uses the common adult range because its range was not printed on the lecture slide.
+
+============================================================
+DAY 1 - ELECTROLYTE BALANCE (25 CARDS)
+============================================================
+
+1. Q: What is the normal sodium range, and what major functions does sodium support?
+A: 135-145 mEq/L. Sodium controls extracellular fluid balance, blood volume, blood pressure, and nerve and muscle signaling.
+
+2. Q: What causes hyponatremia?
+A: Sodium loss from vomiting, NG suction, sweating, diuretics, or poor intake; or dilution from SIADH, heart failure, or excess hypotonic fluid.
+
+3. Q: What findings make hyponatremia dangerous?
+A: Confusion, lethargy, poor concentration, weakness, seizures, or stupor. LOW sodium -> water moves into brain cells -> cerebral swelling -> neurologic deterioration.
+
+4. Q: What are priority nursing actions for significant hyponatremia?
+A: Assess neurologic and respiratory status, trend sodium, monitor vital signs and intake/output, institute seizure precautions, and treat the cause. Fluid restriction may be ordered for dilutional hyponatremia; hypertonic saline may be ordered for severe symptomatic cases.
+
+5. Q: What causes hypernatremia, and what findings are expected?
+A: Free-water loss from fever, sweating, diarrhea, vomiting, or diabetes insipidus; or excess sodium intake/administration. Expect intense thirst, dry mucosa, agitation or confusion, and signs of dehydration; edema may occur when sodium gain is the cause.
+
+6. Q: Why must hypernatremia be corrected slowly?
+A: A rapid fall in serum sodium moves water into brain cells and can cause cerebral edema. Monitor neurologic status, fluid balance, and sodium during ordered fluid replacement.
+
+7. Q: What is the normal potassium range, and why is potassium a high-priority electrolyte?
+A: 3.5-5.0 mmol/L. Potassium is essential for nerve conduction, skeletal and smooth muscle contraction, and a steady cardiac rhythm; severe imbalance can cause lethal dysrhythmias or respiratory weakness.
+
+8. Q: What causes hypokalemia?
+A: GI losses such as vomiting, diarrhea, and NG drainage; loop or thiazide diuretics; poor intake; hyperaldosteronism; and shifts into cells caused by insulin or albuterol.
+
+9. Q: What findings and ECG changes occur with hypokalemia?
+A: Weakness, cramps, decreased reflexes, shallow respirations, hypoactive bowel sounds, weak or irregular pulse, ST depression, inverted T waves, and prominent U waves.
+
+10. Q: What safety rules apply to potassium replacement?
+A: Check kidney function and urine output first. Give oral potassium with food when possible. Dilute IV potassium, use an infusion pump, monitor the IV site and rhythm as indicated, and NEVER give potassium IV push.
+
+11. Q: What causes hyperkalemia, and what ECG clue is especially important?
+A: Renal failure, ACE inhibitors, spironolactone, NSAIDs, Addison disease, tissue destruction, or excess potassium. Peaked T waves are a major clue; worsening hyperkalemia may cause bradycardia, conduction changes, ventricular fibrillation, or arrest.
+
+12. Q: How is severe hyperkalemia treated, and what does each treatment accomplish?
+A: IV calcium gluconate protects the heart; insulin with dextrose, albuterol, or bicarbonate shifts potassium into cells; a loop diuretic, potassium binder, or dialysis removes potassium from the body.
+
+13. Q: What is the lecture calcium range, and what functions does calcium support?
+A: 9-11 mg/dL. Calcium supports bones and teeth, muscle contraction, nerve signaling, cardiac function, and blood clotting. PTH, vitamin D, and the kidneys help regulate it.
+
+14. Q: What findings indicate hypocalcemia?
+A: Tingling, muscle cramps, hyperreflexia, tetany, positive Chvostek and Trousseau signs, prolonged QT, seizures, or laryngospasm. LOW calcium -> increased neuromuscular excitability.
+
+15. Q: What commonly causes hypocalcemia, and how is it managed?
+A: Hypoparathyroidism or thyroidectomy, pancreatitis, vitamin D or magnesium deficiency, high phosphate, and chronic GI or renal disease. Protect the airway, use seizure/fall precautions, monitor ECG and calcium/magnesium/phosphate, and give ordered calcium and vitamin D.
+
+16. Q: What findings and treatments are associated with hypercalcemia?
+A: Weakness, reduced reflexes, constipation, nausea/vomiting, kidney stones, bone pain, confusion, short QT, and slow vital signs. Treat with normal saline, then an ordered loop diuretic; calcitonin or dialysis may be required.
+
+17. Q: What is the normal magnesium range, and how does magnesium affect assessment?
+A: 1.5-2.5 mEq/L. Magnesium helps muscles relax and supports nerve and cardiac function. LOW magnesium causes increased excitability; HIGH magnesium depresses neuromuscular and cardiorespiratory function.
+
+18. Q: What findings and dangers occur with hypomagnesemia?
+A: Hyperreflexia, clonus, tingling, tachycardia, tachypnea, long QT, confusion, seizures, torsades de pointes, or ventricular fibrillation. Causes include alcohol misuse, GI losses, diuretics, and aminoglycosides.
+
+19. Q: What findings and priority treatments occur with hypermagnesemia?
+A: Hypotension, bradycardia, respiratory depression, lethargy, weakness, and decreased or absent reflexes. Stop magnesium sources, monitor ECG/respirations/LOC/reflexes, give ordered IV calcium gluconate, and use fluids plus a loop diuretic or dialysis as appropriate.
+
+20. Q: What is the normal phosphorus range, and how is phosphorus related to calcium?
+A: 2.5-4.5 mg/dL. Phosphorus supports bones, teeth, muscles, and cellular energy. It usually moves opposite calcium: low calcium often accompanies high phosphorus, and high calcium often accompanies low phosphorus.
+
+21. Q: What findings occur with hypophosphatemia?
+A: Muscle and respiratory weakness, decreased reflexes, reduced cardiac output, confusion, seizures, bone softening/fractures, and bleeding from low platelets. Severe weakness threatens ventilation.
+
+22. Q: What causes and findings are associated with hyperphosphatemia?
+A: Renal failure, phosphate enemas, excess vitamin D, hypoparathyroidism, or cell lysis. Because calcium falls, expect tetany, positive Chvostek/Trousseau signs, hyperreflexia, bone pain, confusion, or laryngospasm.
+
+23. Q: How is hyperphosphatemia managed?
+A: Trend phosphorus, calcium, and renal function; monitor airway, neurologic, and cardiac status; limit high-phosphorus foods; avoid phosphate enemas; give calcium acetate with food as ordered; and use dialysis if severe with renal failure.
+
+24. Q: What is the common adult chloride range, and what causes hypochloremia?
+A: About 98-107 mEq/L. Hypochloremia commonly follows vomiting or NG suction, diuretics, sweating/burns, dilution, or metabolic alkalosis. Chloride follows sodium and works opposite bicarbonate in acid-base balance.
+
+25. Q: What causes hyperchloremia, what will the nurse see, and what should the nurse do?
+A: Large amounts of 0.9% saline, severe diarrhea, dehydration, renal dysfunction, or metabolic acidosis can raise chloride. Expect thirst/dry mucosa, weakness, confusion, hypotension/tachycardia, and deep rapid breathing if acidotic. Assess fluid status, trend chloride/sodium/potassium/bicarbonate and renal labs, reassess chloride-rich IV fluids, and treat the cause.
+
+============================================================
+DAY 2 - ACID-BASE BALANCE AND ABGs (25 CARDS)
+============================================================
+
+1. Q: What are the normal ABG ranges for pH, PaCO2, and HCO3-?
+A: pH 7.35-7.45; PaCO2 35-45 mm Hg; HCO3- 22-26 mEq/L.
+
+2. Q: Which organ systems regulate acid-base balance?
+A: The lungs regulate PaCO2 by changing ventilation, while the kidneys regulate HCO3- and hydrogen ion handling. Respiratory changes occur faster; renal compensation is slower but lasts longer.
+
+3. Q: How should ABGs be interpreted step by step?
+A: Read pH first, then PaCO2, then HCO3-. Decide whether each is acidic, normal, or alkaline; identify which value matches the pH; then determine whether the other system is compensating.
+
+4. Q: How do PaCO2 and HCO3- behave as acids or bases?
+A: PaCO2 acts like an acid: above 45 is acidic and below 35 is alkaline. HCO3- acts like a base: below 22 is acidic and above 26 is alkaline.
+
+5. Q: What is respiratory acidosis?
+A: pH below 7.35 with PaCO2 above 45. Hypoventilation -> retained CO2 -> more carbonic acid -> falling pH.
+
+6. Q: What commonly causes respiratory acidosis?
+A: COPD/emphysema, severe asthma, pneumonia, respiratory depression from opioids or sedatives, head injury, or stroke.
+
+7. Q: What findings occur with respiratory acidosis?
+A: Dyspnea, headache, tachycardia, hypertension, hypoxia, cyanosis, drowsiness, confusion, and possible obtundation.
+
+8. Q: What are priority interventions for respiratory acidosis?
+A: Support airway and ventilation, monitor respiratory status and oxygen saturation, give ordered oxygen, correct the cause, administer naloxone for opioid overdose when ordered, treat infection, and prepare for mechanical ventilation if needed.
+
+9. Q: What is respiratory alkalosis?
+A: pH above 7.45 with PaCO2 below 35. Hyperventilation -> excessive CO2 loss -> reduced acid -> rising pH.
+
+10. Q: What commonly causes respiratory alkalosis?
+A: Anxiety, panic, stress, pain, fever, and hypoxia that triggers rapid breathing.
+
+11. Q: What findings occur with respiratory alkalosis?
+A: Dizziness, lightheadedness, tingling, palpitations, chest tightness, shortness of breath, difficulty concentrating, confusion, muscle cramps, or tetany from reduced ionized calcium.
+
+12. Q: What are appropriate nursing actions for respiratory alkalosis?
+A: Assess for hypoxia and the cause of hyperventilation, monitor breathing and oxygenation, provide calm coaching, and correct pain, anxiety, fever, or hypoxia. Do not assume anxiety until dangerous causes of hyperventilation are excluded.
+
+13. Q: What is metabolic acidosis?
+A: pH below 7.35 with HCO3- below 22. Acid is overproduced or retained, or bicarbonate is lost.
+
+14. Q: What commonly causes metabolic acidosis?
+A: DKA, lactic acidosis, renal failure/CKD, severe diarrhea with bicarbonate loss, and other conditions causing acid accumulation.
+
+15. Q: Why do Kussmaul respirations occur in metabolic acidosis?
+A: The lungs compensate by increasing respiratory rate and depth to blow off CO2. Less CO2 -> less acid -> an attempt to raise pH.
+
+16. Q: What findings occur with metabolic acidosis?
+A: Headache, weakness, fatigue, nausea/vomiting/diarrhea, hypotension, tachycardia, confusion, disorientation, and deep rapid compensatory breathing.
+
+17. Q: How is metabolic acidosis managed?
+A: Monitor breathing, oxygenation, vital signs, mental status, fluids, electrolytes, and ABGs; then correct the cause. Examples include IV fluids/electrolytes and insulin for DKA, dialysis for severe renal failure, or bicarbonate when critically indicated.
+
+18. Q: What is metabolic alkalosis?
+A: pH above 7.45 with HCO3- above 26. Hydrogen ions are lost or bicarbonate is gained.
+
+19. Q: What commonly causes metabolic alkalosis?
+A: Prolonged vomiting, NG suction, excess antacids/bicarbonate, diuretics, hyperaldosteronism, and Cushing syndrome.
+
+20. Q: What findings and interventions occur with metabolic alkalosis?
+A: Nausea/vomiting, muscle twitching or cramps, tetany, hypotension, confusion/agitation, and compensatory respiratory depression. Monitor respirations and labs, restore fluids, potassium, and chloride as ordered, stop or question contributing medications, and treat the cause.
+
+21. Q: What does uncompensated acid-base imbalance mean?
+A: The pH is abnormal, the value causing the disorder is abnormal, and the other system's value remains normal. Example: low pH, high PaCO2, normal HCO3- = uncompensated respiratory acidosis.
+
+22. Q: What does partial compensation mean?
+A: The pH remains abnormal, but both PaCO2 and HCO3- are abnormal because the second organ system has begun trying to correct the primary disturbance.
+
+23. Q: What does full compensation mean?
+A: The pH has returned to 7.35-7.45 while PaCO2 and HCO3- remain abnormal. Use the pH's position within normal range and the matching abnormal value to identify the original disorder.
+
+24. Q: Interpret this ABG: pH 7.28, PaCO2 52, HCO3- 24.
+A: Uncompensated respiratory acidosis. The pH is acidic, PaCO2 is acidic and matches the pH, and HCO3- is normal, so the kidneys are not yet compensating.
+
+25. Q: Interpret this ABG: pH 7.48, PaCO2 48, HCO3- 34.
+A: Metabolic alkalosis with respiratory compensation. The pH and HCO3- are alkaline, identifying the metabolic cause; PaCO2 is acidic because hypoventilation is retaining CO2 to compensate. Because pH is still abnormal, compensation is partial.
+
+============================================================
+DAY 3 - GLUCOSE METABOLISM AND TYPE 1 DIABETES (25 CARDS)
+============================================================
+
+1. Q: How do the pancreas and liver normally regulate blood glucose?
+A: Rising glucose stimulates pancreatic beta cells to release insulin, which helps cells take up glucose and tells the liver to store excess glucose as glycogen. Falling glucose stimulates glucagon, which tells the liver to break glycogen into glucose.
+
+2. Q: Why is glucose regulation especially important for the brain?
+A: The brain depends heavily on a continuous glucose supply. Severe hypoglycemia quickly threatens neurologic function and can cause seizures, coma, or death.
+
+3. Q: What is the core pathophysiology of Type 1 diabetes?
+A: Autoimmune destruction of pancreatic beta cells -> absolute insulin deficiency -> glucose cannot enter insulin-dependent cells -> hyperglycemia and breakdown of fat/protein for energy.
+
+4. Q: How does Type 1 diabetes differ from Type 2 diabetes?
+A: Type 1 has little or no endogenous insulin because beta cells are destroyed and always requires exogenous insulin. Type 2 involves insulin resistance plus progressive beta-cell dysfunction and may initially be managed with lifestyle and non-insulin medication.
+
+5. Q: What are the classic "3 Ps" of diabetes, and why do they occur?
+A: Polyuria, polydipsia, and polyphagia. Glucose pulls water into urine -> frequent urination -> dehydration and thirst; cells cannot use glucose effectively -> hunger.
+
+6. Q: Why can a person with untreated Type 1 diabetes lose weight despite polyphagia?
+A: Without insulin, cells cannot use glucose effectively, so the body breaks down fat and protein for energy, causing weight loss.
+
+7. Q: What is the normal blood glucose range stated in the lecture?
+A: 70-110 mg/dL, while recognizing that reference ranges vary by lab and source.
+
+8. Q: What laboratory results meet the lecture's diabetes diagnostic criteria?
+A: A1C at least 6.5%; fasting plasma glucose at least 126 mg/dL after at least 8 hours without intake; 2-hour glucose at least 200 mg/dL during a 75-g oral glucose tolerance test; or classic symptoms/hyperglycemic crisis with random glucose at least 200 mg/dL.
+
+9. Q: What does hemoglobin A1C measure, and what treatment goal is listed in the pharmacy lecture?
+A: A1C estimates average glycemia over roughly the prior 2-3 months. The lecture lists a general goal below 7%, individualized to the patient.
+
+10. Q: What blood glucose level defines hypoglycemia in the lectures?
+A: Below 70 mg/dL, although one lecture notes that some facilities use a different threshold.
+
+11. Q: What are early and severe findings of hypoglycemia?
+A: Early: cool clammy skin, sweating, tremor, hunger, palpitations, dizziness, irritability, headache, weakness, and confusion. Severe: loss of consciousness, seizures, or coma.
+
+12. Q: Why is hypoglycemia generally more immediately dangerous than hyperglycemia?
+A: LOW glucose deprives the brain of fuel -> rapid neurologic dysfunction -> seizures, coma, and death. Hyperglycemia is also dangerous but usually causes deterioration less rapidly.
+
+13. Q: How is conscious hypoglycemia treated using the 15-15 rule?
+A: Give 15 g of fast-acting carbohydrate, wait 15 minutes, and recheck glucose. Repeat until corrected, then follow with a meal or complex carbohydrate when appropriate.
+
+14. Q: What are examples of about 15 g of fast carbohydrate from the lecture?
+A: Four ounces of fruit juice, four ounces of regular soda, eight ounces of low-fat milk, or three teaspoons of granulated sugar.
+
+15. Q: What findings suggest hyperglycemia?
+A: Polyuria, polydipsia, polyphagia, dry mouth, blurred vision, frequent headaches, fatigue, and dehydration. The lecture memory clue is "hot and dry need some I" for insulin.
+
+16. Q: When should a person with Type 1 diabetes check urine ketones?
+A: When blood glucose is over 240 mg/dL, during illness or infection, or when unusual symptoms occur, because insulin needs may have changed.
+
+17. Q: How does diabetic ketoacidosis develop?
+A: Severe insulin deficiency -> impaired carbohydrate use -> lipolysis -> liver converts fatty acids to ketones -> metabolic acidosis, while hyperglycemia causes osmotic diuresis, dehydration, and electrolyte loss.
+
+18. Q: What are warning signs of DKA?
+A: Hyperglycemia, urine ketones, thirst, dry or flushed skin, polyuria, polydipsia, fatigue, nausea/vomiting, abdominal pain, fruity breath, confusion, and Kussmaul respirations.
+
+19. Q: What are the three major clinical problems in DKA?
+A: Hyperglycemia, acidosis, and fluid/electrolyte imbalance with dehydration.
+
+20. Q: What are the major treatment priorities for DKA presented in the lecture?
+A: Replace fluid and electrolyte deficits, give IV regular insulin, monitor glucose and electrolytes closely, and correct the precipitating cause.
+
+21. Q: What sick-day rules should a patient with diabetes follow?
+A: Stay hydrated, check glucose more often (the lecture suggests every 4-6 hours), continue diabetes medication unless specifically instructed otherwise, check ketones when indicated, and contact the provider for persistent hyperglycemia or complications.
+
+22. Q: What is insulin waning?
+A: Insulin effectiveness wears off overnight, so glucose progressively rises through the night. The nurse can identify the pattern with overnight checks and collaborate with the provider about timing or dose changes.
+
+23. Q: What is the dawn phenomenon?
+A: Early-morning growth hormone, cortisol, and glucagon increase insulin resistance -> glucose rises just before or after waking, without preceding nocturnal hypoglycemia.
+
+24. Q: What is the Somogyi effect?
+A: Nocturnal hypoglycemia triggers counter-regulatory hormones -> rebound morning hyperglycemia. The clue is low glucose during the night followed by high glucose in the morning.
+
+25. Q: How does the nurse distinguish insulin waning, dawn phenomenon, and the Somogyi effect?
+A: Check glucose through the night and examine the trend: progressive overnight rise = waning; early-morning rise without preceding low = dawn; early-morning low followed by rebound high = Somogyi. Nurses identify and report the pattern; providers adjust therapy.
+
+============================================================
+DAY 4 - TYPE 2 DIABETES, COMPLICATIONS, AND MEDICATIONS (25 CARDS)
+============================================================
+
+1. Q: What is the core pathophysiology of Type 2 diabetes?
+A: Body cells become resistant to insulin and pancreatic beta-cell function progressively declines, so the body may both use insulin poorly and produce too little.
+
+2. Q: What risk factors for Type 2 diabetes are emphasized in the lecture?
+A: Age over 30, obesity, family history, hypertension, prior gestational diabetes or delivery of a baby over 9 lb, low HDL/high triglycerides, and previously impaired fasting glucose.
+
+3. Q: What is the usual treatment progression for Type 2 diabetes in the lecture?
+A: Lifestyle changes -> metformin monotherapy -> a second medication if needed -> a third medication or insulin/other injectable therapy when control remains inadequate.
+
+4. Q: What general glucose treatment goals are listed in the pharmacy lecture?
+A: A1C below 7%, premeal glucose 80-130 mg/dL, and peak postmeal glucose below 180 mg/dL, with goals individualized by the care team.
+
+5. Q: Which diabetes complications are macrovascular?
+A: Coronary heart disease/cardiovascular disease, stroke, and peripheral arterial disease. These involve larger blood vessels.
+
+6. Q: Which diabetes complications are microvascular?
+A: Retinopathy, nephropathy, and neuropathy. Think of damage to the smallest and most distal vessels and nerves.
+
+7. Q: How does diabetes lead to foot wounds and amputation risk?
+A: Neuropathy reduces protective sensation and microvascular disease impairs circulation -> injuries go unnoticed and heal slowly -> infection and tissue loss can progress to amputation.
+
+8. Q: What daily foot-care teaching is important for a patient with diabetes?
+A: Inspect feet every day, wash and dry carefully, protect feet with properly fitting shoes, avoid walking barefoot, report wounds or color/temperature changes promptly, and obtain professional help for risky nail/callus care.
+
+9. Q: What lifestyle changes were recommended in the pharmacy lecture?
+A: Aim for over 5% weight loss in 3 months when appropriate, complete about 150 minutes of moderate aerobic activity weekly, get up and move every 30 minutes, and stop smoking.
+
+10. Q: How does metformin work, and what adverse effects are common?
+A: It decreases hepatic glucose output and increases insulin sensitivity. Common adverse effects are abdominal cramping, nausea, vomiting, and diarrhea.
+
+11. Q: How do sulfonylureas such as glipizide work, and what is the key safety issue?
+A: They increase pancreatic insulin secretion. Major concerns are hypoglycemia and weight gain; consider holding/questioning them when the patient is NPO according to orders and facility practice.
+
+12. Q: How do meglitinides such as repaglinide work, and how are they timed?
+A: They increase insulin secretion and are taken with meals, often up to three times daily. Hypoglycemia and weight gain are important risks.
+
+13. Q: What is the action and major warning for thiazolidinediones such as pioglitazone?
+A: They increase insulin sensitivity. Weight gain and peripheral edema are major concerns, so worsening fluid retention requires follow-up.
+
+14. Q: How do SGLT2 inhibitors such as empagliflozin work, and what should the nurse teach?
+A: They increase urinary glucose excretion. Expect increased urination, thirst, and possible weight loss; teach about genital infections and the warning for ketoacidosis.
+
+15. Q: How do DPP-4 inhibitors such as sitagliptin work, and what serious adverse effects matter?
+A: They decrease glucagon and therefore reduce glucose production. Watch for acute pancreatitis, severe joint pain, hypersensitivity, and severe skin reactions.
+
+16. Q: How do alpha-glucosidase inhibitors such as acarbose work, and when are they taken?
+A: They delay intestinal carbohydrate breakdown and glucose absorption. Take the dose with the first bite of each meal; common effects are gas, diarrhea, and abdominal pain.
+
+17. Q: Why must hypoglycemia caused while taking an alpha-glucosidase inhibitor be treated with glucose rather than sucrose?
+A: The medication blocks sucrose breakdown, so sucrose may not raise glucose fast enough. Use glucose tablets or glucose gel.
+
+18. Q: How do GLP-1 agonists such as semaglutide work, and what are key warnings?
+A: They decrease glucagon and slow gastric emptying, increasing fullness and often causing weight loss. Important warnings include pancreatitis and thyroid C-cell tumor risk; nausea is common.
+
+19. Q: How does pramlintide work, and what safety issues are important?
+A: It decreases glucagon and slows gastric emptying. It can cause severe hypoglycemia with insulin, is contraindicated in gastroparesis, and is skipped when a meal is too small according to the prescribed criteria.
+
+20. Q: What is the difference between bolus and basal insulin?
+A: Bolus rapid/short-acting insulin covers meals or corrects acute high glucose. Basal intermediate/long-acting insulin mainly controls fasting glucose between meals and overnight.
+
+21. Q: What are key safety points for rapid-acting insulin such as lispro or aspart?
+A: Coordinate it closely with meals, monitor for hypoglycemia and hypokalemia, and rotate injection sites to reduce lipodystrophy.
+
+22. Q: What is distinctive about regular insulin?
+A: It is short acting and is the insulin used intravenously for emergencies such as DKA. When given subcutaneously for meals, coordinate administration with food according to the prescription and institutional timing.
+
+23. Q: What facts distinguish NPH insulin?
+A: NPH is intermediate acting and cloudy. It may be mixed with rapid- or short-acting insulin; when mixing, draw up clear insulin before cloudy insulin.
+
+24. Q: What facts distinguish long-acting insulin such as glargine, detemir, or degludec?
+A: It provides basal coverage, is generally given at the same time each day as ordered, and should not be mixed with other insulins.
+
+25. Q: What injection technique is taught for insulin pens or syringes?
+A: Rotate sites, pinch an appropriate area of skin and subcutaneous fat, insert at a 90-degree angle when suitable, fully depress the button or plunger, and wait about 5-10 seconds before removing the needle.
+
+============================================================
+DAY 5 - CELLULAR REGULATION AND ANEMIAS (25 CARDS)
+============================================================
+
+1. Q: Where are blood cells made, and how do the kidneys stimulate red blood cell production?
+A: Blood cells are made in bone marrow. When the kidneys sense reduced oxygen delivery, they release erythropoietin, which signals the marrow to produce more RBCs.
+
+2. Q: What is the main function of RBCs and hemoglobin?
+A: RBCs transport oxygen to tissues and help remove carbon dioxide. Hemoglobin contains iron-binding sites that carry oxygen and gives blood its red color.
+
+3. Q: What is anemia?
+A: A deficiency in the quantity or quality of RBCs and hemoglobin -> reduced oxygen delivery to tissues.
+
+4. Q: Why do fatigue, pallor, dyspnea, and tachycardia occur in anemia?
+A: Low hemoglobin reduces oxygen delivery -> tissues become hypoxic -> fatigue and dyspnea; the heart increases rate/output to compensate; reduced oxyhemoglobin causes pallor.
+
+5. Q: What are the three broad mechanisms of anemia presented in the lecture?
+A: Blood loss, hypoproliferation/decreased RBC production, and hemolysis/premature RBC destruction.
+
+6. Q: What global findings may occur with anemia?
+A: Fatigue, weakness, malaise, pallor or jaundice, cardiac/respiratory/GI/neurologic symptoms, tongue changes, nail changes, angular cheilitis, and pica.
+
+7. Q: What do hemoglobin and hematocrit measure?
+A: Hemoglobin measures the oxygen-carrying iron-containing protein; hematocrit is the percentage of blood volume made of RBCs. Both are part of H&H/CBC assessment.
+
+8. Q: What does the reticulocyte count tell the nurse?
+A: It measures immature RBCs in circulation and helps show the marrow response. An increased count suggests active replacement after blood loss or hemolysis; an inadequate response suggests poor production.
+
+9. Q: How does MCV help classify anemia?
+A: Low MCV = microcytic, commonly iron deficiency; high MCV = macrocytic, commonly B12 or folate deficiency; normal MCV = normocytic, such as acute blood loss or chronic disease.
+
+10. Q: Which tests help evaluate the cause of anemia?
+A: CBC/H&H, RBC indices, reticulocyte count, iron studies including serum iron, ferritin, and TIBC, B12, folate, haptoglobin, erythropoietin, and sometimes bone marrow aspiration.
+
+11. Q: What is the pathophysiology of iron-deficiency anemia?
+A: Too little iron -> inadequate hemoglobin synthesis -> reduced RBC production and oxygen-carrying capacity; the cells are usually microcytic.
+
+12. Q: What causes iron-deficiency anemia?
+A: Inadequate intake, increased need such as pregnancy, or chronic blood loss such as GI bleeding or heavy menstruation.
+
+13. Q: What findings point specifically toward iron-deficiency anemia?
+A: General anemia symptoms plus pica, brittle nails, angular cheilitis, and a smooth shiny tongue/glossitis.
+
+14. Q: What teaching accompanies oral or liquid iron therapy?
+A: Take iron with vitamin C to improve absorption. Expect prescribed supplementation and dietary iron; liquid iron can stain teeth, so use a straw and provide oral care.
+
+15. Q: What is megaloblastic anemia?
+A: Impaired DNA synthesis from vitamin B12 or folate deficiency -> abnormally large, immature RBCs -> macrocytic anemia.
+
+16. Q: What is pernicious anemia?
+A: Vitamin B12 deficiency caused by insufficient intrinsic factor, often from destruction of gastric parietal cells, so the GI tract cannot absorb B12 normally.
+
+17. Q: Who is at increased risk for B12 deficiency from impaired absorption?
+A: Patients with loss/dysfunction of intrinsic-factor-producing tissue or GI absorption problems, including some patients after bariatric surgery and those with Crohn disease or celiac disease.
+
+18. Q: Which findings distinguish B12 deficiency from folate deficiency?
+A: Both can cause macrocytic anemia and glossitis, but B12 deficiency can cause neurologic or mood findings such as paresthesia, ataxia, irritability, and depression.
+
+19. Q: How is pernicious anemia treated and monitored?
+A: Replace vitamin B12 and monitor levels. Oral replacement may be tried, but IM B12 may be required when intrinsic factor is insufficient for reliable absorption.
+
+20. Q: What causes folate-deficiency anemia, and how is it treated?
+A: Decreased intake, especially with alcohol misuse, or increased need during pregnancy or growth spurts. Treat with folic acid replacement; neurologic findings are not expected as they are with B12 deficiency.
+
+21. Q: What is hemolytic anemia?
+A: RBCs are destroyed prematurely in the bloodstream or spleen faster than bone marrow can replace them.
+
+22. Q: Why do jaundice, dark urine, splenomegaly, and a high reticulocyte count occur in hemolytic anemia?
+A: RBC destruction increases bilirubin -> jaundice and dark urine; the spleen removes damaged RBCs and may enlarge; marrow responds by releasing more immature RBCs.
+
+23. Q: What is the pathophysiology of sickle cell anemia?
+A: Inherited abnormal hemoglobin makes RBCs sickle under stress -> fragile cells hemolyze and rigid cells occlude vessels -> anemia, severe pain, ischemia, and possible organ damage.
+
+24. Q: What can trigger a sickle cell crisis?
+A: Dehydration, low oxygen, infection, extreme heat or cold, severe stress or exertion, and high altitude.
+
+25. Q: What are priority treatments for a sickle cell crisis, and how is response evaluated?
+A: Give aggressive hydration to reduce viscosity, oxygen when hypoxic, opioid pain control, rest, antibiotics for infection, and transfusion for severe anemia as ordered. Improvement includes reduced pain, better oxygenation/perfusion, improved hydration, and stabilization of anemia.
+
+============================================================
+DAY 6 - PREOPERATIVE CARE (25 CARDS)
+============================================================
+
+1. Q: What purposes can surgery serve?
+A: Cure, palliation, prevention, cosmetic change, exploration, or diagnosis. Surgery may be elective or emergent and inpatient or ambulatory.
+
+2. Q: Why is the preoperative interview one of the nurse's most important actions?
+A: It obtains health history, clarifies information, assesses emotional readiness and expectations, and gives the patient an opportunity to ask about surgery, anesthesia, and postoperative care.
+
+3. Q: What are the main goals of the preoperative assessment?
+A: Identify operative risks, promote safety, establish baseline data for comparison, assess psychological and physiological status, review testing, confirm the surgical site, and evaluate understanding needed for informed consent.
+
+4. Q: Which cardiovascular problems should be identified before surgery?
+A: Heart failure, prior MI, hypertension, valvular disease, implanted pacemaker/defibrillator, dysrhythmias, and other conditions that may increase anesthesia or perfusion risk.
+
+5. Q: Which respiratory problems increase surgical risk?
+A: Chronic lung disease, current respiratory infection, sleep apnea, impaired oxygenation, and smoking history because anesthesia and immobility can further reduce ventilation.
+
+6. Q: Why are kidney and liver function important preoperatively?
+A: Kidneys influence drug elimination, fluids, and electrolytes. Liver dysfunction affects drug metabolism and clotting and can increase bleeding risk.
+
+7. Q: Why must diabetes be identified and planned for before surgery?
+A: NPO status and surgical stress alter glucose, while poor control increases infection and healing problems. Medication, insulin, and glucose-monitoring orders must be coordinated.
+
+8. Q: Why are vomiting, diarrhea, and bowel preparation important preoperative findings?
+A: They can cause dehydration and electrolyte or acid-base imbalance -> greater risk for dysrhythmia, hypotension, and poor recovery.
+
+9. Q: Why is nutritional status assessed before surgery?
+A: Malnutrition can impair immune function and wound healing, while obesity can increase respiratory, mobility, wound, and thromboembolic risks.
+
+10. Q: What preoperative diagnostic data may be reviewed?
+A: CBC, electrolytes, glucose, BUN/creatinine, coagulation studies, liver tests, albumin, urinalysis, pregnancy test, ECG, chest x-ray, pulse oximetry, ABGs when indicated, and type and crossmatch.
+
+11. Q: Why are allergies and medication/recreational drug use assessed before surgery?
+A: They can affect anesthesia, bleeding, interactions, withdrawal, pain control, and emergency treatment. Include prescription, OTC, herbal, anticoagulant, alcohol, and substance use.
+
+12. Q: Why should the nurse ask about personal or family reactions to anesthesia?
+A: A family or personal history may signal risk for malignant hyperthermia, a rare potentially fatal inherited reaction.
+
+13. Q: How does preoperative teaching improve outcomes?
+A: It reduces fear and stress, improves participation, and lowers complications such as atelectasis/pneumonia, DVT/PE, ileus, and infection, which can shorten recovery and length of stay.
+
+14. Q: What respiratory skills should be taught before surgery?
+A: Deep breathing, coughing/splinting, position changes, and incentive-spirometer use when ordered so the patient can perform them after anesthesia to expand the lungs and clear secretions.
+
+15. Q: Why is early ambulation taught before surgery?
+A: Movement improves ventilation, circulation, bowel motility, and venous return -> reduces pneumonia, ileus, DVT, and PE risk unless contraindicated.
+
+16. Q: What information should preoperative teaching include?
+A: Sensory information about what the patient may feel, process information about the sequence of events, procedural information about what will be done, and pain-management and discharge expectations.
+
+17. Q: What conditions must be met for valid informed consent?
+A: The patient must be cognitively competent, act voluntarily, and receive adequate information about the procedure. The provider performing the procedure is responsible for the explanation; the nurse verifies the consent is signed and witnesses according to policy.
+
+18. Q: What should the nurse do if the patient has unanswered questions before signing consent?
+A: Pause the signing process and notify the surgeon/provider to answer the questions. Do not give the provider's procedural explanation for them.
+
+19. Q: When can surgery proceed without the usual informed consent process?
+A: In a true emergency when delay threatens life or health and consent cannot be obtained, according to law and institutional policy.
+
+20. Q: What must be verified on the day of surgery?
+A: Correct patient/procedure/site, consent, H&P, consultations, labs/diagnostics, vital signs, skin preparation, nursing documentation, completed orders, and appropriate site marking by the surgeon and patient per policy.
+
+21. Q: What identification and safety bands may be needed?
+A: Identification and allergy bands, plus applicable blood-bank, restricted-extremity, and obstructive-sleep-apnea bands.
+
+22. Q: What personal items are generally removed before surgery, and what exception may help communication?
+A: Remove jewelry, glasses, contacts, dentures, prostheses, cosmetics, nail products, and secure valuables per policy. Hearing aids may remain until necessary so the patient can understand instructions.
+
+23. Q: Why should the patient void before preoperative medication and transport?
+A: An empty bladder reduces discomfort and injury risk, while sedating medication can make later ambulation and toileting unsafe.
+
+24. Q: What culturally competent preoperative care should the nurse provide?
+A: Ask how culture affects pain expression, decision-making, and family roles; respect informed choices and religious restrictions such as refusal of blood; and use a qualified interpreter when needed.
+
+25. Q: Why do older adults require heightened preoperative planning?
+A: Reduced physiologic reserve, sensory deficits, comorbidities, and altered drug handling increase anesthesia and postoperative complication risk. Establish cognitive, functional, mobility, and sensory baselines and communicate accommodations.
+
+============================================================
+DAY 6 - POSTOPERATIVE CARE (25 CARDS)
+============================================================
+
+1. Q: What is the PACU, and what determines the level of postoperative care?
+A: The post-anesthesia care unit is where immediate recovery is managed. Patient safety, physiologic stability, procedure, anesthesia, and required monitoring determine the phase and level of care.
+
+2. Q: What is the first priority in the initial PACU assessment?
+A: Airway patency, followed by breathing and circulation. Anesthetic effects can obstruct the airway or depress respirations, so ABC threats come before pain or routine documentation.
+
+3. Q: What should the initial postoperative airway and breathing assessment include?
+A: Airway patency and any airway/ventilator, respiratory rate and effort, breath sounds, oxygen saturation/PaO2, skin color, and signs of obstruction or aspiration.
+
+4. Q: What should the initial postoperative circulation assessment include?
+A: Blood pressure, heart rate/rhythm, heart sounds, pulses, capillary refill, skin color/temperature, IV patency, fluid balance, and evidence of bleeding.
+
+5. Q: What other systems and sites are included in the initial PACU assessment?
+A: LOC/orientation/motor-sensory status/PERRLA, urine output and I&O, nausea/vomiting and bowel sounds, pain, incision/dressing/drains, positioning, and fall risk.
+
+6. Q: What should a standardized PACU handoff include?
+A: Patient identifiers and history, allergies, procedure and site, anesthesia, intraoperative course, medications/fluids/blood loss, airway status, complications, pain/nausea treatment, lines/drains, dressings, and current vital signs.
+
+7. Q: What findings support discharge from PACU?
+A: The patient is awake or easily arousable, maintains a patent airway and adequate oxygenation (the slide lists SpO2 over 90%), has stable vital signs near baseline, controlled symptoms, and no immediate complication requiring PACU care.
+
+8. Q: What must the receiving unit nurse do when the patient arrives from PACU?
+A: Safely transfer the patient, protect lines/drains, compare current vital signs with the PACU report, perform a focused assessment, inspect the surgical site, and initiate postoperative orders.
+
+9. Q: What interventions promote postoperative respiratory function?
+A: Position to protect the airway, provide oxygen as ordered, assess breath sounds, cough and deep breathe, use incentive spirometry, turn regularly, suction as needed, manage pain enough to permit breathing, hydrate as appropriate, and ambulate early.
+
+10. Q: What findings suggest postoperative atelectasis?
+A: Dyspnea, tachypnea, decreased breath sounds, asymmetric chest movement, tachycardia, and restlessness. Collapsed alveoli -> impaired gas exchange -> hypoxemia.
+
+11. Q: What findings suggest postoperative pneumonia?
+A: Rapid shallow breathing, fever, wet or abnormal breath sounds, asymmetric chest movement, productive cough, hypoxia, tachycardia, and leukocytosis.
+
+12. Q: What findings suggest a pulmonary embolism, and what is the priority?
+A: Sudden chest pain, dyspnea, tachypnea, tachycardia, anxiety, diaphoresis, disorientation, falling BP, or oxygenation/ABG changes. Treat as an emergency: support oxygenation, call for rapid assistance, and follow urgent orders.
+
+13. Q: What postoperative findings suggest hemorrhage and hypovolemic shock?
+A: Increased bleeding, falling urine output and BP, weak pulse, thirst, restlessness, cool clammy skin, and declining perfusion. Assess the site and drains, support circulation, notify the surgeon/rapid-response team, and prepare ordered fluids/blood.
+
+14. Q: What is the most common cause to suspect first when a PACU patient becomes agitated or restless?
+A: Hypoxemia. Assess airway, breathing, and oxygenation immediately before attributing agitation to pain, anxiety, bladder distention, or anesthesia.
+
+15. Q: What is emergence delirium?
+A: A short-term postoperative neurologic alteration with restlessness, agitation, disorientation, thrashing, or shouting. Causes can include hypoxia, anesthesia, pain, and bladder distention.
+
+16. Q: What commonly causes delayed emergence, and what may reverse opioid-related depression?
+A: Prolonged action of opioids, sedatives, or inhaled anesthetics is common. Support airway/breathing and follow orders; naloxone may reverse opioid effects when indicated.
+
+17. Q: How should an early low-grade postoperative fever be interpreted compared with fever after 48 hours?
+A: A low-grade fever in the first 48 hours may reflect surgical stress/inflammation or lung congestion. Fever after 48 hours raises concern for infection such as surgical-site infection, CAUTI, or pneumonia, and may also accompany DVT.
+
+18. Q: What findings signal malignant hyperthermia, and what treatment is emphasized?
+A: Rapid temperature rise, severe muscle or jaw rigidity, and tachycardia after triggering anesthesia. Stop the trigger, call for emergency help, cool the patient, give cold fluids as ordered, and administer dantrolene (Dantrium).
+
+19. Q: Why is postoperative hypothermia dangerous, and how is it treated?
+A: Hypothermia causes vasoconstriction, hypertension, impaired organ flow and immunity, and shivering that raises oxygen demand and heart rate. Use warm blankets/forced air, warmed IV fluids, oxygen, and frequent temperature/skin checks; prevent burns.
+
+20. Q: What is the most reliable indicator of postoperative pain?
+A: The patient's own report. Assess location, intensity, quality, timing, and acceptable pain goal; for a nonverbal patient, use behavior and physiologic cues.
+
+21. Q: What safety assessments accompany opioid or PCA pain treatment?
+A: Check respiratory rate and quality, oxygenation, level of consciousness/sedation, vital signs, pain response, and adverse effects. Only the patient should activate a PCA unless a specifically designed authorized method is ordered.
+
+22. Q: What findings indicate postoperative urinary retention?
+A: Inability to void 8-10 hours after surgery, a palpable or distended bladder, frequent small voids, and suprapubic pain. Assess bladder volume and follow ordered measures or catheterization protocols.
+
+23. Q: What findings suggest paralytic ileus or gastric dilation?
+A: Decreased/absent bowel sounds, no stool or flatus, nausea/vomiting, abdominal distention, and tenderness; gastric dilation also causes prominent nausea, vomiting, and distention. Keep intake restricted as ordered, assess, and manage NG decompression if prescribed.
+
+24. Q: What is the difference between wound dehiscence and evisceration, and what is the nurse's priority response?
+A: Dehiscence is separation of incision layers; evisceration is protrusion of internal organs. Stay with the patient, cover the area with sterile saline-moistened dressings, reduce strain by positioning with knees bent, keep NPO, and notify the surgeon/emergency team. Do not push organs back in.
+
+25. Q: What must be included in ambulatory postoperative discharge teaching?
+A: The patient should be alert, mobile, stable, and near baseline; have a responsible driver; understand medications, pain control, incision care, activity and diet limits, warning signs, and follow-up; avoid swimming or soaking the incision until approved; and receive documented teaching with family/caregiver involvement.
