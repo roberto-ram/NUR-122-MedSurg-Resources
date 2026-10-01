@@ -57,3 +57,10 @@ For Test 2 study materials:
 1. Use the respiratory concept maps for pneumonia-versus-influenza findings, diagnostics, precautions, and deterioration.
 2. Use the shared comparison for cellulitis and for distinguishing infection from arterial, venous, or thrombotic problems.
 3. Keep MRSA/MDRO transmission control and treatment response tied to the official infection objectives.
+
+## Downloaded instructor handouts — October 1, 2026
+
+- [COVID-19](04%20Instructor%20Handouts/McCain_COVID.docx) — instructor handout covering assessment, deterioration, treatment, and precautions.
+- [MDROs](04%20Instructor%20Handouts/McCain_MDROs.docx) — instructor handout for transmission control and nursing management.
+
+These handouts supplement the existing lecture maps. Keep the documented Canvas-versus-official-objectives scope difference visible.

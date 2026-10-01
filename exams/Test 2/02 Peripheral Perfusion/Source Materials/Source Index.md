@@ -50,3 +50,10 @@ Coverage: peripheral vascular disease, peripheral artery disease, and chronic ve
 ## Remaining source gap
 
 The separate required Canvas item `PAD - Visual Examples of PAD Ulcers` has not yet been supplied.
+
+## Downloaded instructor resources — October 1, 2026
+
+- [CVI concept map](04%20Instructor%20Concept%20Maps/CVI%20Concept%20Map.pdf)
+- [CVI lecture PowerPoint](05%20Instructor%20Lectures/CVI%20PowerPoint.pptx)
+
+Use these alongside the existing PAD/CVI preparation and shared instructor comparison.

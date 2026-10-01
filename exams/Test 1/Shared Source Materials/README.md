@@ -5,3 +5,7 @@
 - [ABGs instructor lecture](../../../sources/ABGs_CMcCain_Spring2026.pdf) — also supports diabetes and perioperative review
 
 Reuse the read-only project-level originals through links. Each topic has its own source index.
+
+## Supplemental medication reference
+
+- [Medication endings](Medication%20References/Medication%20Endings.docx) — supplementary recognition aid available from Canvas; also useful for Test 2 medication review. Use the applicable instructor lecture and assigned reading for drug-specific assessment and nursing actions.
