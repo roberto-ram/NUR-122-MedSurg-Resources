@@ -29,3 +29,8 @@ venv/
 # Intermediate extraction and render artifacts are not shared.
 **/workfiles/
 **/Workfiles/
+
+# Separate chemistry-course workspaces must not be committed here.
+/Chem-*/
+/CHM-*/
+/Chemistry/
